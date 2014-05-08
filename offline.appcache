@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1399406058
+#1399553805
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -10,7 +10,7 @@ images\fastforward-sheet0.png
 images\fastforward-sheet1.png
 images\step-sheet0.png
 images\back-sheet0.png
-images\sprite2-sheet0.png
+images\playerpos-sheet0.png
 images\untitled-sheet0.png
 images\download-sheet0.png
 images\tiledbackground.png
